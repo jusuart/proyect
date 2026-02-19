@@ -1,1 +1,136 @@
 proyecto creacion de juego tower defense :3
+
+Base Metodológica del Proyecto – Tower Defense Indie
+1. Visión del Proyecto
+
+Yo estoy desarrollando un videojuego 2D tipo Tower Defense, donde el jugador debe sobrevivir a múltiples oleadas de enemigos utilizando tropas y torretas estratégicamente ubicadas.
+
+El enfoque principal del juego será la estrategia, el balance entre unidades y la progresión de dificultad.
+
+Este proyecto será desarrollado bajo la metodología ágil Scrum, aplicando sprints incluso antes de iniciar la programación formal, comenzando con planeación, definición de ideas y estructuración del sistema.
+
+2. Objetivos del Proyecto
+Objetivo General
+
+Desarrollar un videojuego funcional tipo Tower Defense con sistema de oleadas, tropas y torretas, aplicando correctamente la metodología Scrum.
+
+Metas Específicas
+
+Definir claramente las mecánicas principales del juego.
+
+Construir un Product Backlog organizado y priorizado.
+
+Trabajar por sprints con entregables claros.
+
+Tener una versión jugable básica en los primeros sprints.
+
+Ajustar el balance del juego mediante pruebas constantes.
+
+Documentar cada sprint y sus resultados.
+
+3. Características Principales del Juego
+
+Sistema de oleadas progresivas.
+
+Enemigos con diferentes comportamientos.
+
+Tropas con habilidades distintas.
+
+Torretas con sistema de mejora.
+
+Sistema de recursos.
+
+Sistema de vida o base principal.
+
+Interfaz básica funcional.
+
+Escalado de dificultad.
+
+4. Aplicación de Scrum en el Proyecto
+
+Yo voy a aplicar Scrum de manera real y estructurada, no solo teórica.
+
+Elementos que se implementarán:
+
+Product Backlog con todas las funcionalidades del juego.
+
+Historias de usuario claras.
+
+Sprints con duración definida.
+
+Planeación de sprint antes de cada iteración.
+
+Revisión de sprint con evaluación de avances.
+
+Retrospectiva para mejorar el proceso.
+
+5. Estructura Inicial de Sprints (Previo a Programación)
+Sprint 0 – Planeación y Definición
+
+Meta:
+
+Definir visión del juego.
+
+Crear Product Backlog inicial.
+
+Establecer arquitectura base.
+
+Definir mecánicas principales.
+
+Entrega:
+
+Documento estructurado.
+
+Lista priorizada de funcionalidades.
+
+Sprint 1 – Prototipo Base
+
+Meta:
+
+Movimiento básico de enemigos.
+
+Sistema inicial de oleadas.
+
+Base funcional en escena de prueba.
+
+Entrega:
+
+Versión jugable mínima.
+
+Sprint 2 – Sistema de Torretas
+
+Meta:
+
+Colocación de torretas.
+
+Sistema de ataque básico.
+
+Detección de enemigos.
+
+Sprint 3 – Sistema de Tropas
+
+Meta:
+
+Implementación de tropas.
+
+Interacción con enemigos.
+
+Balance inicial.
+
+6. Puntos Importantes del Enfoque Ágil
+
+El proyecto es incremental.
+
+Se aceptan cambios en mecánicas si mejoran la jugabilidad.
+
+Se prioriza funcionalidad antes que perfección visual.
+
+Cada sprint debe dejar algo funcional.
+
+Se documentarán decisiones y cambios.
+
+7. Compromiso Metodológico
+
+Yo me comprometo a aplicar Scrum de forma práctica, organizando el trabajo por iteraciones y manteniendo evidencia de cada sprint.
+
+El objetivo no es solo desarrollar el videojuego, sino demostrar una correcta aplicación de la metodología ágil seleccionada.
